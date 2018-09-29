@@ -1,0 +1,46 @@
+
+.h1  {
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 250px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 0px;
+    border-top: solid thin;
+    border-bottom: solid thin;
+    color: white;
+    
+}
+
+.list   {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    padding-left: 0px;
+    margin-top: 280px;
+    line-height: 1.5;
+}
+
+.home   {
+    font-family: "Raleway", sans-serif;
+    font-size: 10px;
+}
+
+.about  {
+    color: rgb(49 51 53);
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Cormorant Garamond', serif;
+    
+}
+
+.intro  {
+    font-family: monospace;
+    font-size: 16px;
+    margin: 20px;
+    text-align: center;
+}

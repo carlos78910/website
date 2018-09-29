@@ -16,7 +16,7 @@ h1  {
     
 }
 
-.list   {
+list   {
     color: white;
     font-family: 'Raleway', sans-serif;
     text-align: center;
@@ -25,12 +25,12 @@ h1  {
     line-height: 1.5;
 }
 
-.home   {
+home   {
     font-family: "Raleway", sans-serif;
     font-size: 10px;
 }
 
-.about  {
+about  {
     color: rgb(49 51 53);
     text-align: center;
     font-size: 50px;
@@ -38,7 +38,7 @@ h1  {
     
 }
 
-.intro  {
+intro  {
     font-family: monospace;
     font-size: 16px;
     margin: 20px;

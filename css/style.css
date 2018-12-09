@@ -44,7 +44,7 @@
         
 }
 
-.contact {
+.professional {
     width: 180px;
     color: white;
     background-color: rgba(0, 0, 0, 0.5);
@@ -70,7 +70,7 @@
     text-decoration: none;
 }
 
-
+/* Add a hover effect if you want */
 .fa:hover {
     opacity: 0.7;
 }
@@ -84,10 +84,30 @@
     padding:0;
 }
 
-/* Twitter */
-.fa-twitter {
+.experience {
+    width: 180px;
     color: white;
-    transform: scale(3);
-    margin-left: 20px;
-    padding:0;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-left: 200px;
+     margin-left: 60px;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    margin-right: 300px;
+    margin-left: 200px;
+    padding: 5px;
+}
+
+.scratch {
+    margin-left: 200px;
+    width: 194px;
+    color: white;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+    font-family: "Arial";
+    text-align: center;
 }
